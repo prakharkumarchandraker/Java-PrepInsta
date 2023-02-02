@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Functionalities in Java/Functionalities in Java.iml" filepath="$PROJECT_DIR$/Functionalities in Java/Functionalities in Java.iml" />
       <module fileurl="file://$PROJECT_DIR$/Introduction to Java/Introduction to Java.iml" filepath="$PROJECT_DIR$/Introduction to Java/Introduction to Java.iml" />
       <module fileurl="file://$PROJECT_DIR$/Java_prepInsta.iml" filepath="$PROJECT_DIR$/Java_prepInsta.iml" />
     </modules>
